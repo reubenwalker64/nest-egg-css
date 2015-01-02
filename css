@@ -1,0 +1,11 @@
+Headings - Archivo Narrow
+Paragraphs - Nunito
+
+@import url(http://fonts.googleapis.com/css?family=Archivo+Narrow:700,400|Nunito:400,300);
+
+font-family: 'Archivo Narrow', sans-serif;
+font-family: 'Nunito', sans-serif;
+
+h1 { font-family: ‘Archivo Narrow’, Arial, sans-serif; font-weight: 400; }
+
+
